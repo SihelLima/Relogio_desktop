@@ -3,7 +3,7 @@
 </div>
 
 <h3>
-  Projeto desenvolvido para estudos
+  Projeto desenvolvido para estudos de javascript
 </h3>
 <br>
 
