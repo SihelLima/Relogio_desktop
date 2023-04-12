@@ -44,19 +44,7 @@ Projeto "Relógio Analógico" + Data atual, com a opção de alternar o layout d
 <br>
 <br>
 
-<div id="contato">
-<h1>Como entro em contato?</h1>
 
-Entre em contato através dos links a seguir!
-<br>
-<br>
-<a href="https://www.linkedin.com/in/mateusalvesds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href = "mailto:contatomateusalves@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
-<a href="https://api.whatsapp.com/send?phone=+5511966616365" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
-</div>
 <br>
 <br>
 <br>
